@@ -4,6 +4,11 @@ Scribble-gen, an easy interface for [Scribble](https://docs.racket-lang.org/scri
 
 Sometimes I have a template where I want to fill in the blanks via the command line. Scribble-gen lets me do that!
 
+Why Scribble?
+-----------
+
+I thought about doing this general task with Mustache, but Scribble gives me an out if I need it - to full Lisp expressions and even imported functions full of Lisp. For a general template creation utility I don't know what I may face, having the ability to add custom functions for some rendering project, without touching the underlaying templating engine, is a nice boon.
+
 Installation
 ===========
 
