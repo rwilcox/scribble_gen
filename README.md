@@ -7,7 +7,7 @@ Sometimes I have a template where I want to fill in the blanks via the command l
 Installation
 ===========
 
-When I've used this package more - ie when I stop adding helpers - I'll distribute it better. For right now you'll have to clone and install it yourself.
+When I've used this package more - ie when I stop adding helpers or my very very beginner Racket gets better - I'll distribute it better. For right now you'll have to clone and install it yourself.
 
 Usage
 ===========
